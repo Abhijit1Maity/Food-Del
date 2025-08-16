@@ -47,15 +47,15 @@ Admins can manage food items and orders via a dedicated admin panel.
 
 | Home Page | Menu Page |
 |-----------|-----------|
-https://github.com/Abhijit1Maity/Food-Del/blob/51d46e11c37c311fa2ac7d04136b6c512c93e1e5/Screenshot%202025-08-17%20012144.png
+| ![Home](https://github.com/Abhijit1Maity/Food-Del/blob/491528fc67da1c886dfaaf4a3113a03db96f1350/Screenshot%202025-08-17%20012144.png) | ![Menu](https://github.com/Abhijit1Maity/Food-Del/blob/491528fc67da1c886dfaaf4a3113a03db96f1350/Screenshot%202025-08-17%20012258.png) |
 
 | Cart Page | Payment Page |
 |-----------|--------------|
-| ![Cart](https://github.com/user-attachments/assets/R2YcoetQTKExYmJeAu7EhU) | ![Payment](https://github.com/user-attachments/assets/5QSPj58tbTWLKWgyJLvkE5) |
+| ![Cart](https://github.com/Abhijit1Maity/Food-Del/blob/491528fc67da1c886dfaaf4a3113a03db96f1350/Screenshot%202025-08-17%20012339.png) | ![Payment](https://github.com/Abhijit1Maity/Food-Del/blob/491528fc67da1c886dfaaf4a3113a03db96f1350/Screenshot%202025-08-17%20012431.png) |
 
 | My Orders |
 |-----------|
-| ![Orders](https://github.com/user-attachments/assets/BhSJ4ma5X3NpjWQQsLx9cv) |
+| ![Orders](https://github.com/Abhijit1Maity/Food-Del/blob/491528fc67da1c886dfaaf4a3113a03db96f1350/Screenshot%202025-08-17%20012456.png) |
 
 ---
 
