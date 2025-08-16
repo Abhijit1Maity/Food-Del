@@ -47,7 +47,7 @@ Admins can manage food items and orders via a dedicated admin panel.
 
 | Home Page | Menu Page |
 |-----------|-----------|
-| ![Home](https://github.com/user-attachments/assets/Y8RiTtcpo82W2Bq23WAmqy) | ![Menu](https://github.com/user-attachments/assets/XP76BTS9srFwRJM8Me3wtj) |
+https://github.com/Abhijit1Maity/Food-Del/blob/51d46e11c37c311fa2ac7d04136b6c512c93e1e5/Screenshot%202025-08-17%20012144.png
 
 | Cart Page | Payment Page |
 |-----------|--------------|
