@@ -45,9 +45,17 @@ Admins can manage food items and orders via a dedicated admin panel.
 
 ## 📸 Screenshots
 
-| User Interface | Admin Panel |
-|----------------|--------------|
-| ![User UI](https://via.placeholder.com/800x400.png?text=User+Interface+Preview) | ![Admin Panel](https://via.placeholder.com/800x400.png?text=Admin+Panel+Preview) |
+| Home Page | Menu Page |
+|-----------|-----------|
+| ![Home](https://github.com/user-attachments/assets/Y8RiTtcpo82W2Bq23WAmqy) | ![Menu](https://github.com/user-attachments/assets/XP76BTS9srFwRJM8Me3wtj) |
+
+| Cart Page | Payment Page |
+|-----------|--------------|
+| ![Cart](https://github.com/user-attachments/assets/R2YcoetQTKExYmJeAu7EhU) | ![Payment](https://github.com/user-attachments/assets/5QSPj58tbTWLKWgyJLvkE5) |
+
+| My Orders |
+|-----------|
+| ![Orders](https://github.com/user-attachments/assets/BhSJ4ma5X3NpjWQQsLx9cv) |
 
 ---
 
