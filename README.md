@@ -49,11 +49,11 @@ Admins can manage food items and orders via a dedicated admin panel.
 |-----------|-----------|
 | ![Home](https://github.com/Abhijit1Maity/Food-Del/blob/491528fc67da1c886dfaaf4a3113a03db96f1350/Screenshot%202025-08-17%20012144.png) | ![Menu](https://github.com/Abhijit1Maity/Food-Del/blob/491528fc67da1c886dfaaf4a3113a03db96f1350/Screenshot%202025-08-17%20012258.png) |
 
-| Cart Page | Payment Page |
+| Cart Page | Information Page  |
 |-----------|--------------|
 | ![Cart](https://github.com/Abhijit1Maity/Food-Del/blob/491528fc67da1c886dfaaf4a3113a03db96f1350/Screenshot%202025-08-17%20012339.png) | ![Payment](https://github.com/Abhijit1Maity/Food-Del/blob/491528fc67da1c886dfaaf4a3113a03db96f1350/Screenshot%202025-08-17%20012431.png) |
 
-| My Orders |
+| Payment Page  |
 |-----------|
 | ![Orders](https://github.com/Abhijit1Maity/Food-Del/blob/491528fc67da1c886dfaaf4a3113a03db96f1350/Screenshot%202025-08-17%20012456.png) |
 
