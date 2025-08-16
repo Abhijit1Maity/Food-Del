@@ -1,6 +1,6 @@
 # 🍴 ZAYKABOX - Food Delivery Website
 
-ZAYKABOX is a **full-stack food ordering web application** built with the **MERN stack**.  
+**ZAYKABOX** is a **full-stack food ordering web application** built with the **MERN stack**.  
 It allows users to browse food items, add them to their cart, place orders with secure payments, and track their order status.  
 Admins can manage food items and orders via a dedicated admin panel.
 
@@ -23,7 +23,7 @@ Admins can manage food items and orders via a dedicated admin panel.
 
 ---
 
-## 🖥️ Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend:**
 - ⚛️ React.js  
@@ -43,5 +43,17 @@ Admins can manage food items and orders via a dedicated admin panel.
 
 ---
 
-## 📂 Project Structure
+## 📸 Screenshots
 
+| User Interface | Admin Panel |
+|----------------|--------------|
+| ![User UI](https://via.placeholder.com/800x400.png?text=User+Interface+Preview) | ![Admin Panel](https://via.placeholder.com/800x400.png?text=Admin+Panel+Preview) |
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository:
+```bash
+git clone https://github.com/your-username/zaykabox-food-ordering.git
+cd zaykabox-food-ordering
