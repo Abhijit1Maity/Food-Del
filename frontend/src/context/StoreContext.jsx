@@ -12,7 +12,7 @@ const StoreContextProvider = (props) => {
 
 
 
-  const url="https://food-del-backend-c46c.onrender.com:4000"
+  const url="https://food-del-backend-c46c.onrender.com"
   const addToCart =async(itemId) => {
     if (!cartItems[itemId]) {
       setCartItems((prev) => ({ ...prev, [itemId]: 1 }));
